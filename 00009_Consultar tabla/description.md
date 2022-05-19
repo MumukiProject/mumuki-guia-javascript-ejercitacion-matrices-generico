@@ -5,15 +5,15 @@ Por ejemplo, si el índice `1` es la columna `nombre` todas las demás "filas" d
 ```javascript
 const tabla = [
   ['id', 'nombre', 'edad', 'email'],
-  [1, 'Ada', 33, 'ada@gmail.com'],
-  [2, 'Grace', 45, 'grace@gmail.com'],
+  [1, 'Ale', 33, 'ale@gmail.com'],
+  [2, 'Gaby', 45, 'gaby@gmail.com'],
 ]
 ```
 >  Definí la función `consultarTabla`que tome por parámetro un número `id`, un string `columna`, y una matriz `tabla` y que retorne el valor del dato de la columna dada para el registro con el `id` indicado.
 >
 ```javascript
 ム consultarTabla(2, 'nombre', tabla)
-'Grace'
+'Gaby'
 ム consultarTabla(1, 'email', tabla)
-'ada@gmail.com'
+'ale@gmail.com'
 ```
