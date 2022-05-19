@@ -1,0 +1,1 @@
+En la `</>Biblioteca` tenés disponible la función `tieneBloque` para que puedas invocarla, no tenés que volver a definirla.
