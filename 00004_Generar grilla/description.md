@@ -1,4 +1,4 @@
-> Definí una función `generarGrilla` que tome por parámetro un número entero `filas`, un número entero `columnas` y un array de valores `items`, y devuelva una matriz de `filas` filas y `columnas` columnas, donde cada ítem de la matriz es un ítem _aleatorio_ de `items`.
+> Definí una función `generarGrilla` que tome por parámetro un número entero  de filas, un número entero de columnas y un array de valores, y retorne una matriz de filas y columnas, donde cada ítem de la matriz es un ítem _aleatorio_ del array de valores.
 >
 ```javascript
 ム generarGrilla(2, 3, [1, 2]) 

@@ -1,4 +1,4 @@
-> Definí una función `convertirEnMatriz` que reciba como argumentos un número entero `columnas` y un array `array` y devuelva una matriz con los items de `array` y la cantidad de columnas `columnas` por fila. La última fila puede quedarse como menos columnas de las indicadas si no hay más ítems que agregar.
+> Definí una función `convertirEnMatriz` que reciba como argumentos un número entero de columnas y un array y retorne una matriz con los items del array y la cantidad de columnas por fila. La última fila puede quedarse con menos columnas de las indicadas si no hay más ítems que agregar.
 >
 ```javascript
 ム convertirEnMatriz(2, [1, 2, 3, 4])

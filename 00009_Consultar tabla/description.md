@@ -9,7 +9,7 @@ const tabla = [
   [2, 'Gaby', 45, 'gaby@gmail.com'],
 ]
 ```
->  Definí la función `consultarTabla`que tome por parámetro un número `id`, un string `columna`, y una matriz `tabla` y que retorne el valor del dato de la columna dada para el registro con el `id` indicado.
+>  Definí la función `consultarTabla`que tome por parámetro un id, una columna, y una tabla y que retorne el valor del dato de la columna dada para el registro con el id indicado.
 >
 ```javascript
 ム consultarTabla(2, 'nombre', tabla)
